@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+ 
+int main ()
+{
+   // for loop execution
+   for( Enter Actual Demand for month1;)
+   {
+       cout << "Actual Demand is 21 " << a << endl;
+   }
+ 
+   return 0;
+}
